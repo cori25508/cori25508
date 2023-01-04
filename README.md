@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cori25508
 - 👀 I’m interested in UI/UX Design 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning about Product Design
+- 💞️ I’m looking to collaborate on future accessibility projects!
 - 📫 How to reach me musiccramer@gmail.com
 
 <!---
